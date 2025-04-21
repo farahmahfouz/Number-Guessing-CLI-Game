@@ -20,12 +20,12 @@ rl.question('Enter your choice: ', (choice) => {
 
   switch (choice) {
     case '1':
-      (chances = 1),
-        (message = 'Great! You have selected the Easy difficulty level.');
+      chances = 10,
+      message = 'Great! You have selected the Easy difficulty level.';
       break;
     case '2':
-      (chances = 5),
-        (message = 'Great! You have selected the Medium difficulty level.');
+      chances = 5,
+      message = 'Great! You have selected the Medium difficulty level.';
       break;
     case '3':
       chances = 3;
