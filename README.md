@@ -13,7 +13,7 @@ A simple **Node.js** command-line game where the user tries to guess a randomly 
 
 ## 🌐 Project URL
 
-👉 [https://github.com/your-username/number-guessing-game]([https://github.com/farah/number-guessing-game](https://github.com/farahmahfouz/Number-Guessing-CLI-Game))
+👉 [https://github.com/farahmahfouz/Number-Guessing-CLI-Game](https://github.com/farahmahfouz/Number-Guessing-CLI-Game)
 
 
 ## 📌 Game Idea
