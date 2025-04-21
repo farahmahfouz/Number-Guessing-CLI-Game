@@ -29,7 +29,7 @@ rl.question('Enter your choice: ', (choice) => {
       break;
     case '3':
       chances = 3;
-      message = message = 'Great! You have selected the Hard difficulty level.';
+      message = 'Great! You have selected the Hard difficulty level.';
       break;
     default:
       console.log('Invalic choice');
